@@ -1,0 +1,45 @@
+.con {
+  /* background box: */
+  /* Frame 5 */
+
+  position: relative;
+  width: 305px;
+  height: 361px;
+
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.logo {
+  width: 60px;
+  height: 60px;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.logo-name {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 35px;
+  font-weight: bolder;
+  margin-right: 30px;
+}
+.text-1 {
+  text-align: left;
+  font-weight: bold;
+  font-size: larger;
+}
+.mar-left {
+  margin-left: 40px;
+}
+
+.mar-top {
+  margin-top: 30px;
+}
+
+.but-mar-left {
+  margin-left: 50px;
+}
+.but-mar-top {
+  margin-top: 20px;
+}
